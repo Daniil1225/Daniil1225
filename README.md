@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Daniil!
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning java
+- 📫 Reach me by email
